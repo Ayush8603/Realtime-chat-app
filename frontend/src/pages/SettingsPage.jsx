@@ -30,7 +30,7 @@ const SettingsPage = () => {
 
                 </div>
               </div>
-              <span className='text=[11px] font-medium truncate w-full text-center'>hello</span>
+              <span className='text=[11px] font-medium truncate w-full text-center'>Setting page not working...</span>
             </button>
         
 
